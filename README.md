@@ -15,7 +15,6 @@ Sanchita Kanade <sanchitamystudies@gmail.com>
   - TextFileToMatrixConverter.java (main class)
   - input.txt
   - HexagonMap.pdf
-  - index.html (JavaDoc file inside Doc folder)
    
 ## Project Description
 
