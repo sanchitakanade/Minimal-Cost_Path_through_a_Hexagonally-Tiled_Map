@@ -1,9 +1,6 @@
 # Minimal-Cost_Path_through_a_Hexagonally-Tiled_Map
  Algorithms and Their Analysis (Java programming)
  
-# README.md
-** Version 1.0.0 **
---
 ## Contributors
 Sanchita Kanade <sanchitamystudies@gmail.com>
 
